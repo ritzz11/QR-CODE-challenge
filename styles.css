@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    width: 1440px;
+}
+
+.img{
+    width: 310px;
+    border-radius: 4%;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    width: 90%;
+    margin-left: 10px;
+}
+
+h2{
+    font-weight: 700;
+    width: 100%;
+}
+.qrcode{
+    background-color: white;
+    width: 320px;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    position: absolute;
+    left: 400px;
+    top: 60px;
+    border-radius: 4%;
+}
